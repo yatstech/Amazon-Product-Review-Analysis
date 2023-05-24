@@ -46,8 +46,11 @@ source link - https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/
 I have used 4 datasets in this project are :
 
 Beauty Products dataset - reviews
+
 Beauty Products dataset - metadata
+
 Clothing and Jewellery brand Dataset - reviews
+
 Clothing and Jewellery brand Dataset - metadata
 
 
