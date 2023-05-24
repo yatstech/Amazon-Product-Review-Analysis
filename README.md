@@ -33,10 +33,11 @@ To achieve the project objectives, the following technologies are used:
 
 ## Project Objectives
 1. Reviews Preprocessing and Cleaning: Perform data preprocessing and cleaning to prepare the reviews for analysis.
-2. Extracting Features from Cleaned Reviews: Extract relevant features from the cleaned reviews to be used in subsequent analysis.
-3. Model Building: Sentiment Analysis: Build a model to classify the sentiment of reviews as positive, negative, or neutral.
-4. Model Building: Clustering: Apply clustering techniques to group similar reviews together.
-5. Model Building: Time Series Analysis: Use time series analysis to identify trends and patterns in the sentiment of reviews over time.
+2. Visualization using Tableau : To understand data in better and fast way using tableau.
+3. Extracting Features from Cleaned Reviews: Extract relevant features from the cleaned reviews to be used in subsequent analysis.
+4. Model Building: Sentiment Analysis: Build a model to classify the sentiment of reviews as positive, negative, or neutral.
+5. Model Building: Clustering: Apply clustering techniques to group similar reviews together.
+6. Model Building: Time Series Analysis: Use time series analysis to identify trends and patterns in the sentiment of reviews over time.
 
 ## Data Source Files
 The project utilizes data from Amazon product reviews as the primary data source. The specific data files and their formats will be provided or can be obtained from publicly available datasets.
